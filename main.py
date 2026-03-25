@@ -39,17 +39,17 @@ OWNERS_FILE = os.path.join(DATA_DIR, "owners.json")
 DEFAULT_OWNERS = [8382316368]
 FETCH_INTERVAL = 3
 
-FIXED_BUTTON_3_NAME = "👑 Owner"
-FIXED_BUTTON_3_URL = "https://t.me/Kami_Broken5"
+FIXED_BUTTON_3_NAME = "᭯ᷭꫂ⃝🧸ᗴᖇᖇᗝᖇ᭯ᷭꫂ⃝🧸"
+FIXED_BUTTON_3_URL = "https://t.me/ZeroTraceNums"
 
 FIXED_BUTTON_4_NAME = "🪀 Whatsapp"
 FIXED_BUTTON_4_URL = "https://chat.whatsapp.com/LwPIdOAbtmnBUhSr0qbNxg?mode=wwt"
 
 DEFAULT_BUTTON_1_NAME = "🔢 Numbers"
-DEFAULT_BUTTON_1_URL = "https://t.me/mralisindhi"
+DEFAULT_BUTTON_1_URL = "https://t.me/ZeroTraceNums"
 
-DEFAULT_BUTTON_2_NAME = "😈 Developer"
-DEFAULT_BUTTON_2_URL = "https://t.me/iam_sindhi"
+DEFAULT_BUTTON_2_NAME = "᭯ᷭꫂ⃝🧸ᗴᖇᖇᗝᖇ᭯ᷭꫂ⃝🧸"
+DEFAULT_BUTTON_2_URL = "https://t.me/ZeroTraceNums"
 
 OWNER_STATE_API_URL = 1
 OWNER_STATE_ADD_OWNER = 2
@@ -247,8 +247,8 @@ def format_message(record: dict, source_id: int, chat_id_str: str):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-<b>Powered By 😈 KAMI BROKEN 💔 😈
-Owner By 💗 ALI SINDHI 💯</b>
+<b>Powered By᭯ᷭꫂ⃝🧸ᗴᖇᖇᗝᖇ᭯ᷭꫂ⃝🧸
+Owner By ᴢᴇʀᴏᴛʀᴀᴄᴇɴᴜᴍs</b>
 """
     return text, create_message_markup(chat_id_str)
 
