@@ -26,8 +26,8 @@ from telegram.ext import (
 )
 from telegram.error import BadRequest, Forbidden
 
-BOT_TOKEN = "8619187177:AAHVQJWuhRSmRCZUspc9vXJKsWyDK7Rr87c"
-BOT_USERNAME = "OTPFORWARD007_BOT"
+BOT_TOKEN = "8415635912:AAFwa_LWr5r2rWWRdHO7AgA1ZsWKerDME0g"
+BOT_USERNAME = "Zerootpt_bot"
 DATA_DIR = "data"
 LOGS_DIR = os.path.join(DATA_DIR, "logs")
 STATES_DIR = os.path.join(DATA_DIR, "states")
@@ -39,8 +39,8 @@ OWNERS_FILE = os.path.join(DATA_DIR, "owners.json")
 DEFAULT_OWNERS = [8382316368]
 FETCH_INTERVAL = 3
 
-FIXED_BUTTON_3_NAME = "᭯ᷭꫂ⃝🧸ᗴᖇᖇᗝᖇ᭯ᷭꫂ⃝🧸"
-FIXED_BUTTON_3_URL = "https://t.me/ZeroTraceNums"
+FIXED_BUTTON_3_NAME = "👑 Owner"
+FIXED_BUTTON_3_URL = "https://t.me/Kami_Broken5"
 
 FIXED_BUTTON_4_NAME = "🪀 Whatsapp"
 FIXED_BUTTON_4_URL = "https://chat.whatsapp.com/LwPIdOAbtmnBUhSr0qbNxg?mode=wwt"
@@ -48,7 +48,7 @@ FIXED_BUTTON_4_URL = "https://chat.whatsapp.com/LwPIdOAbtmnBUhSr0qbNxg?mode=wwt"
 DEFAULT_BUTTON_1_NAME = "🔢 Numbers"
 DEFAULT_BUTTON_1_URL = "https://t.me/ZeroTraceNums"
 
-DEFAULT_BUTTON_2_NAME = "᭯ᷭꫂ⃝🧸ᗴᖇᖇᗝᖇ᭯ᷭꫂ⃝🧸"
+DEFAULT_BUTTON_2_NAME = "ZeroTraceNums"
 DEFAULT_BUTTON_2_URL = "https://t.me/ZeroTraceNums"
 
 OWNER_STATE_API_URL = 1
