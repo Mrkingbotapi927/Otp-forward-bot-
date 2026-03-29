@@ -247,7 +247,7 @@ def format_message(record: dict, source_id: int, chat_id_str: str):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-<b>Powered By᭯ᷭꫂ⃝🧸ᗴᖇᖇᗝᖇ᭯ᷭꫂ⃝🧸
+<b>Powered By Kami_Broken😈
 Owner By ᴢᴇʀᴏᴛʀᴀᴄᴇɴᴜᴍs</b>
 """
     return text, create_message_markup(chat_id_str)
